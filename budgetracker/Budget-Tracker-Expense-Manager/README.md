@@ -2,16 +2,6 @@
 # 💰 Budget Tracker & Expense Manager  
 A Complete Financial Management Web Application  
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
 ---
 
 ## 📝 Project Overview  
@@ -61,6 +51,17 @@ It features **visual charts**, **monthly summaries**, and **category-wise expens
 | **Charts** | Chart.js / Custom JS | Reports & visualizations |
 
 ---
+
+## 🎯 Role & Contributions
+- 🔧 Developed the **core backend logic** for transaction management  
+- 🖥️ Designed and built the **frontend UI** for smooth user experience  
+- 📊 Implemented **category-wise analytics & charts**  
+- 🗄️ Designed database schema for safe and efficient data handling  
+- ⏰ Added **reminder module** for due bills and savings goals  
+
+---
+
+
 
 ## 📂 Folder Structure  
 
