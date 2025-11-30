@@ -63,18 +63,19 @@ It features **visual charts**, **monthly summaries**, and **category-wise expens
 
 ## 📂 Folder Structure 
 
-📁 budget-tracker-expense-manager
-┣ 📁 css
-┣ 📁 js
-┣ 📁 php
-┣ 📁 assets
-┣ 📁 sql
-┣ 📄 index.html
-┣ 📄 dashboard.php
-┣ 📄 add_expense.php
-┣ 📄 budget.php
-┗ 📄 README.md
 
+📁 budget-tracker-expense-manager
+  ┣ 📁 css
+  ┣ 📁 js
+  ┣ 📁 php
+  ┣ 📁 assets
+  ┣ 📁 sql
+  ┣ 📄 index.html
+  ┣ 📄 dashboard.php
+  ┣ 📄 add_expense.php
+  ┣ 📄 budget.php
+  ┗ 📄 README.md
+   
 
 ---
 
