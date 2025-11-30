@@ -52,12 +52,12 @@ It features **visual charts**, **monthly summaries**, and **category-wise expens
 
 ---
 
-## 🎯 Role & Contributions
-- 🔧 Developed the **core backend logic** for transaction management  
+## 🎯 Role & Contributions 
 - 🖥️ Designed and built the **frontend UI** for smooth user experience  
 - 📊 Implemented **category-wise analytics & charts**  
 - 🗄️ Designed database schema for safe and efficient data handling  
-- ⏰ Added **reminder module** for due bills and savings goals  
+- ⏰ Added **reminder module** for due bills and savings goals
+
 
 ---
 
@@ -66,16 +66,17 @@ It features **visual charts**, **monthly summaries**, and **category-wise expens
 ## 📂 Folder Structure  
 
 📁 budget-tracker-expense-manager
-┣ 📁 css
-┣ 📁 js
-┣ 📁 php
-┣ 📁 assets
-┣ 📁 sql
-┣ 📄 index.html
-┣ 📄 dashboard.php
-┣ 📄 add_expense.php
-┣ 📄 budget.php
-┗ 📄 README.md
+ ┣ 📁 css
+ ┣ 📁 js
+ ┣ 📁 php
+ ┣ 📁 assets
+ ┣ 📁 sql
+ ┣ 📄 index.html
+ ┣ 📄 dashboard.php
+ ┣ 📄 add_expense.php
+ ┣ 📄 budget.php
+ ┗ 📄 README.md
+
 
 ---
 
